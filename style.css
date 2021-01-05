@@ -651,7 +651,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #202020!important;
 }
 
 .container {
@@ -1041,7 +1041,7 @@ h4 {
     }
 }
 
-.img-responsive .portfolio-thumb{
+.img-responsive .portfolio-thumb>img{
     width: 270px;
     height: 270px;
 }
